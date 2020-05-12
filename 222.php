@@ -215,5 +215,6 @@ function getValue($num,$arr)
  * 二次复盘-二分查询
  */
 //。1循环实现
+$arr=array();
 //。2递归实现
 
