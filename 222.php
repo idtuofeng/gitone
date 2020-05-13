@@ -217,4 +217,5 @@ function getValue($num,$arr)
 //。1循环实现
 $arr=array();
 //。2递归实现
+$arr=array();
 
